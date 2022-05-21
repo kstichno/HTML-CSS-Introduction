@@ -1,6 +1,20 @@
 ﻿h1 {
-  color: maroon;
+  color: green;
   margin-left: 40px;
+}
+
+h2 {
+    color: darkgoldenrod;
+    margin-left: 40px;
+}
+
+h3 {
+    color: red;
+    margin-left: 40px;
+}
+
+h4 {
+    border: 1px dotted green;
 }
 
 p {
